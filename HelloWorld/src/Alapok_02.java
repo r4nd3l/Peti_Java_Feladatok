@@ -1,11 +1,11 @@
 // Java fájlnak az alap / meglévő osztálya és annak megnevezése
 public class Alapok_02 {
-    
+
     // Muszáj, hogy legyne egy alap "main" osztálynak, amivel dolgozunk
     public static void main(String[] args){
 
         String password = "Alma";
-        // System.out.println(password.toUpperCase()); 
+        // System.out.println(password.toUpperCase());
         feedback(password);
     }
 
